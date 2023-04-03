@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anmol Giri</h1>
+<h1 align="center">Hello World 👋, I'm Anmol Giri</h1>
 <h3 align="center">A passionate MERN stack Developer and a learner</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anmolgiri12&label=Profile%20views&color=0e75b6&style=flat" alt="anmolgiri12" /> </p>
