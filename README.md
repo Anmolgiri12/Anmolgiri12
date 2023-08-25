@@ -1,12 +1,10 @@
 <h1 align="center">Hello World 👋, I'm Anmol Giri</h1>
-<h3 align="center">A passionate MERN stack Developer and a learner</h3>
+<h3 align="center"> MERN stack Developer and a learner</h3>
 <img align="right" width"400" height="500" src="https://i.pinimg.com/originals/09/c6/29/09c62903beeba336dc9da76eb5c9a107.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anmolgiri12&label=Profile%20views&color=0e75b6&style=flat" alt="anmolgiri12" /> </p>
 
 - 🌱 I’m currently learning **React**
-
-- 💬 Ask me about **complete Roadmap to Full stack developer**
 
 - ⚡ Fun fact **I love working out**
 
